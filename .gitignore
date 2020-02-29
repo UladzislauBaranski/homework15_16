@@ -6,10 +6,12 @@
 *.md
 *.cmd
 *.mvn
+mvnw
 
 # maven
 target/
 
 # app
 test
+test/
 logs/
